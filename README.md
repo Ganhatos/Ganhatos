@@ -2,7 +2,7 @@
 
 - ❤ Sou um apaixonado por tecnologia, estou sempre absorvendo um pouco de cada linguagem.
 - 🤔 Ainda não decidi em qual linguagem focar para que consiga uma oportunidade na área de tecnologia. 
-- ☕ Atualmente estou tentando focar em Java e C#, então é possível encontrar o meu desempenho em Java<a href="https://github.com/Ganhatos/Revisao-Java">neste repositório</a> e em C# são diversos projetos de Bootcamp, estou tentando seguir uma linha de aprendizagem.
+- ☕ Atualmente estou tentando focar em Java e C#, então é possível encontrar o meu desempenho em Java <a href="https://github.com/Ganhatos/Revisao-Java">neste repositório</a> e em C# são diversos projetos de Bootcamp, estou tentando seguir uma linha de aprendizagem.
 - 🎓 Graduando em Engenharia Elétrica Eletrônica na <a href="http://upe.poli.br/">UPE</a> e, além disso, diversos cursos na área de TI. O <a href="https://certificates.digitalinnovation.one/120E6FCD">certificado</a> mais recente foi o Bootcamp da Avanade por meio da plataforma da DIO(Digital Innovation One), inclusive alguns repositórios que foram abordados nele estão com o pré-fixo DIO.
 - ⏳ Futuramente postarei bem mais projetos dos que atualmente estão e com um fácil acesso por esta mesma página.
 
