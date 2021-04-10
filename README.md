@@ -36,3 +36,4 @@ Abaixo estão algumas das tecnologias que já pratiquei:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 
+![](https://komarev.com/ghpvc/?username=Ganhatos&style=flat-square)
