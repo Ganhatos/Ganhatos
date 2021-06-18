@@ -1,13 +1,19 @@
 ### Obrigado por visitar o meu GitHub 🤝
 
-- ❤ Sou um apaixonado por tecnologia, estou sempre absorvendo um pouco de cada linguagem.
-- 🤔 Ainda não decidi em qual linguagem focar para que consiga uma oportunidade na área de tecnologia. 
-- ☕ Atualmente estou tentando focar em Java e C#, então é possível encontrar o meu desempenho em Java <a href="https://github.com/Ganhatos/Revisao-Java">neste repositório</a> e em C# são diversos projetos de Bootcamp, estou tentando seguir uma linha de aprendizagem.
-- 🎓 Graduando em Engenharia Elétrica Eletrônica na <a href="http://upe.poli.br/">UPE</a> e, além disso, diversos cursos na área de TI. O <a href="https://certificates.digitalinnovation.one/120E6FCD">certificado</a> mais recente foi o Bootcamp da Avanade por meio da plataforma da DIO(Digital Innovation One), inclusive alguns repositórios que foram abordados nele estão com o pré-fixo DIO.
-- ⏳ Futuramente postarei bem mais projetos dos que atualmente estão e com um fácil acesso por esta mesma página.
+- ❤ Sou um apaixonado por tecnologia, estou sempre absorvendo um pouco de cada linguagem. 
+- ☕ Atualmente estou focando em C#.
+- 🎓 Graduando em Engenharia Elétrica Eletrônica na <a href="http://upe.poli.br/" target="_blank">UPE</a>, além disso, diversos cursos na área de TI. Atualmente estagiando na <a href="https://avanade.com/" target="_blank">Avanade</a>, tenho um vasto acesso ao aprendizado de diversas tecnologias com pessoas que são referência em suas especialidades e também algumas certificações da Microsoft.
+- ⏳ Futuramente pretendo postar mais projetos apenas de aprendizado.
 
 [![Linkedin: Gabriel](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel98/)](https://www.linkedin.com/in/gabriel98/)
 ![Discord](https://img.shields.io/badge/-Biel%231218-7289DA?style=flat-square&logo=discord&logoColor=white)
+
+<a href="https://github.com/Ganhatos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ganhatos&show_icons=true&theme=algolia&count_private=true&hide=stars,issues&border_radius=0&hide_border=true" />
+</a>
+<a href="https://github.com/Ganhatos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganhatos&layout=compact&theme=algolia&border_radius=0&hide_border=true" />
+</a>
 
 ## ⚡ Tecnologias
 
